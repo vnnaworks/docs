@@ -37,8 +37,8 @@
     }
   },
   "logo": {
-    "light": "/images/WhatExpsAre.Online.png",
-    "dark": "/images/WhatExpsAre.Online(1).png",
+    "light": "/images/WhatExpsAre.Online(1).png",
+    "dark": "/images/WhatExpsAre.Online.png",
     "href": "https://whatexpsare.online"
   },
   "navbar": {
