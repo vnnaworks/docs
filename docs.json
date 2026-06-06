@@ -73,5 +73,22 @@
   },
   "fonts": {
     "family": "Poppins"
+  },
+  "styling": {
+    "codeblocks": "dark"
+  },
+  "appearance": {
+    "default": "dark",
+    "strict": true
+  },
+  "background": {
+    "decoration": "gradient",
+    "color": {
+      "light": "#1a1a1a",
+      "dark": "#1a1a1a"
+    }
+  },
+  "icons": {
+    "library": "fontawesome"
   }
 }
