@@ -4,8 +4,8 @@
   "name": "WhatExpsAre.Online",
   "colors": {
     "primary": "#3bea57",
-    "light": "#ec3b47",
-    "dark": "#ec3b47"
+    "light": "#3bea57",
+    "dark": "#3bea57"
   },
   "favicon": {
     "light": "/images/Frame7.png",
