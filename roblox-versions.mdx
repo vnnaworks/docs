@@ -1,3 +1,45 @@
 ---
 title: "Roblox Versions"
 ---
+
+---
+
+## title: "Roblox Versions" description: "Track current, future, and past Roblox versions across supported Roblox platforms."
+
+WhatExpsAre.Online provides a Roblox version tracker for checking Roblox client versions across Windows, Mac, Android, and iOS.
+
+The tracker currently supports:
+
+\* Current versions \* Future versions \* Past versions
+
+## Base URLs
+
+WEAO version endpoints are public and can be accessed through any supported WEAO domain.
+
+### Supported domains
+
+```txt
+https://weao.xyz
+https://weao.gg
+https://weao.dev
+https://whatexpsare.online
+https://whatexploitsare.online
+```
+
+For example, these are equivalent:
+
+```txt
+https://weao.xyz/api/versions/current
+https://weao.gg/api/versions/current
+https://weao.dev/api/versions/current
+https://whatexpsare.online/api/versions/current
+https://whatexploitsare.online/api/versions/current
+```
+
+<Warning>
+  These endpoints are still rate limited. If you receive a `429` response, reduce how often your service fetches from the API.
+</Warning>
+
+<Note>
+  Example responses in this documentation may contain older Roblox versions. Always use the live API response as the source of truth.
+</Note>
