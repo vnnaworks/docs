@@ -34,7 +34,17 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "roblox-versions",
+          "quickstart"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/images/WhatExpsAre.Online(1).png",
